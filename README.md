@@ -2,9 +2,17 @@
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
-  <a href="https://github.com/HongChaeMin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HongChaeMin&theme=dracula" />
-  </a>
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=HongChaeMin&show_icons=true&theme=blue"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=HongChaeMin&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=HongChaeMin&show_icons=true" />
+</picture>
 </div>
 
 <div align=center><h3>📚 STACKS</h3></div>
