@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=HongChaeMin&show_icons=true&theme=blue"
+  srcset="https://github-readme-stats.vercel.app/api?username=HongChaeMin&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
